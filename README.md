@@ -1,103 +1,225 @@
-# ⚡ Nithin
-
-<p align="left">
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-0052CC?style=for-the-badge&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/nithelan-jayakumar-bb6246244/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-> **Computer Science Engineering Student • Aspiring AI Engineer • Full-Stack & AI Developer**
-
-I am a Computer Science & Engineering student focused on building practical software and AI-powered systems. My work spans intelligent automation, computer vision, full-stack applications, IoT, and real-world problem solving.
-
-I am currently strengthening my foundations in Python, problem-solving, AI engineering, and system development while building projects that go beyond academic prototypes.
-
----
-
-## 🛠️ Technical Ecosystem
-
-| Category                   | Technologies & Tooling                                  |
-| :------------------------- | :------------------------------------------------------ |
-| **Languages**              | `Python` `JavaScript` `Java` `HTML5` `CSS3` `SQL`       |
-| **Frameworks & Libraries** | `React` `Streamlit`                                     |
-| **AI & Computer Vision**   | `OpenCV` `MediaPipe` `Machine Learning` `Generative AI` |
-| **Backend & Databases**    | `Firebase` `SQLite`                                     |
-| **IoT & Hardware**         | `Arduino` `ESP32` `Sensors` `Home Automation`           |
-| **Tools & DevOps**         | `Git` `GitHub` `VS Code`                                |
-
----
-
-## 🚀 Featured Projects
-
-### 👁️ [Classroom Attention Analyzer](YOUR_GITHUB_REPO_URL)
-
-* **Core Concept**: AI-powered classroom analytics platform designed to analyze student attention and engagement during learning sessions.
-* **Technology**: Computer vision pipeline using `OpenCV` and `MediaPipe` to process visual signals and generate meaningful engagement insights.
-* **Focus**: Real-time analytics, attention detection, structured data, and practical AI integration.
-
-### 🩺 [Smart ASHA Connect](YOUR_GITHUB_REPO_URL)
-
-* **Core Concept**: Digital healthcare platform designed to support ASHA workers and improve access to essential healthcare services.
-* **Focus**: AI-assisted healthcare workflows, accessibility, emergency support, and technology designed for real-world social impact.
-
-### 🏠 Home Automation Hardware Project
-
-* **Core Concept**: Smart IoT-based home automation system integrating hardware, sensors, and automated control.
-* **Focus**: Embedded systems, IoT communication, hardware-software integration, and practical automation.
-
-### 🤖 ASHA Hardware Project
-
-* **Core Concept**: Hardware-focused solution supporting the broader Smart ASHA ecosystem.
-* **Focus**: IoT, sensors, embedded systems, and building technology solutions for real-world healthcare challenges.
-
-### 🎯 T7 Skill Up
-
-* **Core Concept**: Technical learning and skill development platform focused on helping users follow structured learning paths.
-* **Focus**: Personalized learning, skill development, recommendation systems, and full-stack application development.
-
----
-
-## 🏆 Hackathons & Achievements
-
-```text
-🥈 RUNNER-UP  | Vibexathon 1.0 (NCET)      - T7 Skill Up
-🥈 RUNNER-UP  | GCEM Hackathon 3.0         - Smart ASHA Project
-🥈 RUNNER-UP  | Nexathon'25                - AI Classroom Engagement
-🏆 WINNER     | Xactitude 24-Hour Hackathon - Smart ASHA Project
-```
-
----
-
-## 📚 Currently Building
-
-* 🐍 Strong Python and problem-solving fundamentals
-* 🤖 AI Engineering and applied machine learning skills
-* 👁️ Computer vision applications
-* 🌐 Production-ready full-stack projects
-* 🔌 IoT and hardware-based systems
-* 💻 A stronger GitHub portfolio with properly structured projects
-
----
-
-## 📊 GitHub Activity
+<h1 align="center">Hi 👋, I'm Nithelan Jayakumar</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Aspiring+AI+Engineer;Python+Developer;AI+%26+Computer+Vision+Enthusiast;Full+Stack+Developer;IoT+%26+Hardware+Builder;Hackathon+Winner" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
+  <img src="https://komarev.com/ghpvc/?username=Nithin0029&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Building%20Technology%20That%20Solves%20Real%20Problems&fontSize=34&fontAlignY=40"/>
 </p>
 
 ---
 
+# 👨‍💻 About Me
+
+I'm **Nithelan Jayakumar**, a Computer Science Engineering student passionate about **Artificial Intelligence**, **Python**, **Computer Vision**, **Full Stack Development**, and **IoT**.
+
+I'm focused on strengthening my programming and problem-solving fundamentals while building practical projects that solve real-world problems. My work spans AI-powered applications, computer vision, intelligent healthcare solutions, and hardware-based automation systems.
+
+* 🤖 Aspiring **AI Engineer**
+* 🐍 Currently strengthening **Python & Problem Solving**
+* 👁 Building **AI & Computer Vision Applications**
+* 🔌 Working on **IoT & Hardware Projects**
+* 🏆 Multiple **Hackathon Achievements**
+* 🎯 Open to **Software Engineering, AI/ML & Internship Opportunities**
+
+---
+
+# 🔥 Currently Working On
+
+* 🐍 Python & Problem-Solving Fundamentals
+* 🤖 AI Engineering & Machine Learning
+* 👁 Computer Vision Applications
+* 🩺 Smart ASHA Healthcare Project
+* 🏠 IoT-Based Home Automation
+* 💻 Improving and productionizing my GitHub projects
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql"/>
+</p>
+
+### AI / Computer Vision
+
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv"/>
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase"/>
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react"/>
+</p>
+
+### IoT & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,git,github,vscode"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 👁️ [Classroom Attention Analyzer](https://github.com/Nithin0029/Classroom_AttentionAnalyzer)
+
+AI-powered classroom analytics platform designed to analyze student attention and engagement during learning sessions.
+
+Built using computer vision concepts to process visual signals and generate meaningful engagement insights.
+
+**Focus:** `Python` • `OpenCV` • `MediaPipe` • `Computer Vision`
+
+---
+
+## 🩺 [Smart ASHA Connect](https://github.com/Nithin0029/ASHA-AI)
+
+A technology-driven healthcare solution designed to support ASHA workers and improve accessibility to essential healthcare services.
+
+Focused on real-world impact through intelligent workflows, accessibility, and practical healthcare technology.
+
+**Focus:** `AI` • `Healthcare Technology` • `IoT` • `Full Stack Development`
+
+---
+
+## 🏠 Home Automation System
+
+An IoT and hardware-based smart home automation project integrating sensors, automated control, and hardware-software communication.
+
+**Focus:** `IoT` • `Embedded Systems` • `Sensors` • `Automation`
+
+🔗 Add Repository Link
+
+---
+
+## 🎯 [T7 Skill Up](https://github.com/Nithin0029/T7skillup)
+
+A technical learning and skill development platform focused on helping users build structured learning paths and improve their technical skills.
+
+Built with a focus on personalized learning, career development, and practical technical guidance.
+
+**Focus:** `AI` • `Web Development` • `Personalized Learning`
+
+---
+
+# 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nithin0029\&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 📊 GitHub Stats
+
 <p align="center">
-  🤝 <b>Open to Software Engineering, AI Engineering, Full-Stack Development, and Internship Opportunities.</b>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nithin0029&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin0029&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Nithin0029&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📋 GitHub Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithin0029&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nithin0029&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nithin0029&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nithin0029/Nithin0029/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+# 🏆 Achievements
+
+🏆 **Xactitude 24-Hour Hackathon — Winner** | Smart ASHA Project
+
+🥈 **NEXATHON'25 — Runner-Up**
+
+🥈 **Vibexathon 1.0 — Runner-Up** | T7 Skill Up
+
+🥈 **GCEM Hackathon 3.0 — Runner-Up** | Smart ASHA Project
+
+---
+
+# 📄 Resume
+
+<p align="center">
+
+<a href="https://github.com/Nithin0029/NithelanJayakumar/raw/main/Nithelan%20Jayakumar%20Resume%20%282%29.pdf" target="_blank">
+
+<img src="https://img.shields.io/badge/Download%20Resume-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+
+</a>
+
+</p>
+
+# 💡 Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/nithelan-jayakumar-bb6246244/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:nithelanjayakumar@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Nithin0029" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Learning, building, and getting better with every project."*
+
 </p>
