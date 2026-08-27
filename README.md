@@ -71,7 +71,7 @@
       </p>
       <p>Real-time student engagement and attentiveness monitoring system analyzing facial landmark vectors and head pose variations.</p>
       <p align="center">
-        <a href="https://github.com/Nithin0029/Analyzer_Classroom"><b>View Repository ➔</b></a>
+        <a href="https://github.com/Nithin0029/attentiom-scanner"><b>View Repository ➔</b></a>
       </p>
     </td>
   </tr>
@@ -95,7 +95,7 @@
       </p>
       <p>Real-time IoT-integrated smart parking assistant application offering automated spot reservation and live occupancy monitoring.</p>
       <p align="center">
-        <a href="https://github.com/Nithin0029"><b>View Repository ➔</b></a>
+        <a href="https://github.com/Nithin0029/park-pal-find-spot"><b>View Repository ➔</b></a>
       </p>
     </td>
   </tr>
