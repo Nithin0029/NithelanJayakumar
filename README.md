@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nithin0029&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
 
   <p align="center">
-    <a href="#" target="_blank">
+    <a href="#" target="nithelanjayakumar-portfolio.vercel.app">
       <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/nithelan-jayakumar-bb6246244/" target="_blank">
